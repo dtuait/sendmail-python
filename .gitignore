@@ -1,0 +1,12 @@
+# Environment configuration should never be committed.
+.env
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+.venv/
+venv/
